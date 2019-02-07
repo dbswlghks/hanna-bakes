@@ -1,0 +1,33 @@
+*{margin: 0; padding: 0; box-sizing: border-box; text-decoration: none; list-style: none;}
+a{color: black;}
+body{overflow-x: hidden;}
+hr{width: 1670px; height: 5px;background-color: black; }
+#wrap { width: 1680px; min-height: 500px; margin: 0 auto;}
+header{width: 100%;}
+section{width: 100%;}
+.mid{width: 620px; margin: 0 auto;}
+.full{width: 100%;}
+.head ul li a{float: left;  width: 155px; line-height: 130px; font-family: 'Baloo Thambi', cursive; transition: 1s;}
+.head ul li a:hover{color: violet; }
+.icon ul li {float: left; margin: 10px; line-height: 100px; }
+.icon ul{position: relative; left: 300px;}
+.line{width: 500px; height: 100px; color: black;}
+.full2 { clear: both;}
+.full2 > p {text-align: center; padding: 20px 0; font-size: 25px; font-family: 'Baloo Thambi', cursive;}
+.img{width: 1680px; height: 690px;}
+.img .space{width: 555px; height: 684px; background-color: pink; float: left; padding: 10px;}
+.img img{width: 560px; height: 690px; float: left; padding: 7px;}
+.space > p{text-align: center; margin-top: 200px; font-size: 35px; font-family: 'Baloo Thambi', cursive;}
+.block{width: 1679px; height: 130px; background-color: gray; margin-top: 40px; font-size: 40px; font-family: 'Baloo Thambi', cursive; text-align: center; line-height: 140px;}
+.box{font-size: 23px;  font-family: 'Baloo Thambi', cursive;  text-align: center; margin: 0 auto; line-height:60px;  margin-top: 150px; border: solid 2px white; width: 150px; height: 60px; transition: 1s;}
+.box:hover{background-color: white;}
+.twoblock{width: 1800px;}
+.donut{margin-top: 45px;}
+.cakemenu{width: 1680px;}
+.follow > p{text-align: center; font-size: 50px; font-family: 'Baloo Thambi', cursive; margin-top: 30px; margin-bottom: 30px;}
+.follow ul {margin-left: 20px;}
+.follow ul li a{float: left; padding: 3px; margin-bottom: 100px;}
+.follow .cakemenu li a img:hover { color:gray; transition: 2s;} 
+.last > p{text-align: center;margin-top: 100px; font-size: 25px; margin-bottom: 25px; font-family: 'Baloo Thambi', cursive;}
+.age p{text-align: center; border: 1px solid brown; width: 330px; height: 35px; line-height: 35px; font-family: 'Baloo Thambi', cursive; background-color: #261b21; color:white; margin: 0 auto; margin-top: 10px; margin-bottom: 90px;}
+footer p{width: 1913px;; height: 50px;  text-align: center; line-height: 50px; background-color: #b7a3ae; margin-left: -113px;  font-family: 'Baloo Thambi', cursive;}
